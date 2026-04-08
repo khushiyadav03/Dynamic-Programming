@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0322-coin-change) |
 | [0874-walking-robot-simulation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0874-walking-robot-simulation) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2069-walking-robot-simulation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2069-walking-robot-simulation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
