@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0322-coin-change) |
 | [0874-walking-robot-simulation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0874-walking-robot-simulation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -82,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 <!---LeetCode Topics End-->
