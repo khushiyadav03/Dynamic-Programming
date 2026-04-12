@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0337-house-robber-iii) |
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Tree
 |  |
 | ------- |
