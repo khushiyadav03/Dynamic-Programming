@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0322-coin-change) |
@@ -98,6 +99,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0062-unique-paths) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3783-mirror-distance-of-an-integer) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
