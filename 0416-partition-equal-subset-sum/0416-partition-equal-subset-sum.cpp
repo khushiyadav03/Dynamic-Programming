@@ -9,7 +9,6 @@ public:
         if(total % 2 != 0) return false;
 
         int target = total/2;
-        int n = nums.size();
         vector<bool> dp(target+1, false);
         dp[0] = true;
 
