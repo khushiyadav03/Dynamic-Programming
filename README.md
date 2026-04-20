@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
 | [0874-walking-robot-simulation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0874-walking-robot-simulation) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0337-house-robber-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Tree
