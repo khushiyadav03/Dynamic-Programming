@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0874-walking-robot-simulation) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
