@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
 | [0874-walking-robot-simulation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0874-walking-robot-simulation) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0337-house-robber-iii) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
