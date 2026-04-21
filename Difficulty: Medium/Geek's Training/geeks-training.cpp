@@ -1,36 +1,23 @@
 class Solution {
   public:
-    int solve(int day, int last, vector<vector<int>>& mat, vector<vector<int>>& dp){
-        
-        if(day == 0){
-            int maxi = 0;
-            for(int task = 0; task < 3; task++){
-                if(task != last){
-                    maxi = max(maxi, mat[0][task]);
-                }
-            }
-            return maxi;
-        }
-
-        if(dp[day][last] != -1) return dp[day][last];
-
-        int maxi = 0;
-
-        for(int task = 0; task < 3; task++){
-            if(task != last){
-                int points = mat[day][task] + solve(day-1, task, mat, dp);
-                maxi = max(maxi, points);
-            }
-        }
-
-        return dp[day][last] = maxi;
-    }
-    
     int maximumPoints(vector<vector<int>>& mat) {
         int n = mat.size();
 
-        vector<vector<int>> dp(n, vector<int>(4, -1));
+        vector<int> prev(3), curr(3);
 
-        return solve(n-1, 3, mat, dp);
+        // base case (day 0)
+        prev[0] = mat[0][0];
+        prev[1] = mat[0][1];
+        prev[2] = mat[0][2];
+
+        for(int day = 1; day < n; day++){
+            curr[0] = mat[day][0] + max(prev[1], prev[2]);
+            curr[1] = mat[day][1] + max(prev[0], prev[2]);
+            curr[2] = mat[day][2] + max(prev[0], prev[1]);
+
+            prev = curr;
+        }
+
+        return max({prev[0], prev[1], prev[2]});
     }
 };
