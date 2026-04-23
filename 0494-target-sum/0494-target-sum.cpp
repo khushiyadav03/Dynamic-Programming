@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int target, int i, int currSum){
+    int S;
+    int solve(vector<int>& nums, int target, int i, int currSum, vector<vector<int>>& t){
         if(i == nums.size()){
             if(currSum == target){
                 return 1;
@@ -9,13 +10,20 @@ public:
             }
         }
 
-        int plus = solve(nums, target, i+1, currSum + nums[i]);
-        int minus = solve(nums, target, i+1, currSum - nums[i]);
+        if(t[i][currSum + S] != -1){
+            return t[i][currSum + S];
+        }
 
-        return plus + minus;
+        int plus = solve(nums, target, i+1, currSum + nums[i], t);
+        int minus = solve(nums, target, i+1, currSum - nums[i], t);
+
+        return t[i][currSum+S] = plus + minus;
     }
 
     int findTargetSumWays(vector<int>& nums, int target) {
-        return solve(nums, target, 0, 0);
+        int n = nums.size();
+        S = accumulate(begin(nums), end(nums), 0); // total sum stored in S
+        vector<vector<int>>t(n+1, vector<int>(2*S+1, -1));
+        return solve(nums, target, 0, 0, t);
     }
 };
