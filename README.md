@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
 | [0874-walking-robot-simulation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0874-walking-robot-simulation) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Tree
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2615-sum-of-distances) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
