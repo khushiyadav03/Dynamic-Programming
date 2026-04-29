@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2615-sum-of-distances) |
+| [3225-maximum-score-from-grid-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3225-maximum-score-from-grid-operations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0064-minimum-path-sum) |
+| [3225-maximum-score-from-grid-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3225-maximum-score-from-grid-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [3225-maximum-score-from-grid-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3225-maximum-score-from-grid-operations) |
 ## Tree
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2615-sum-of-distances) |
+| [3225-maximum-score-from-grid-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3225-maximum-score-from-grid-operations) |
 ## Backtracking
 |  |
 | ------- |
