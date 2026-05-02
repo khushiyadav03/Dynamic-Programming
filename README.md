@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
+| [0788-rotated-digits](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3225-maximum-score-from-grid-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0788-rotated-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3783-mirror-distance-of-an-integer) |
 ## Combinatorics
