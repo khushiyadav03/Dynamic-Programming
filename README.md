@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0091-decode-ways) |
 | [0657-robot-return-to-origin](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Dynamic Programming
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0494-target-sum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
