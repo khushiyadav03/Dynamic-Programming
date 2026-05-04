@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0063-unique-paths-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0063-unique-paths-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0788-rotated-digits) |
