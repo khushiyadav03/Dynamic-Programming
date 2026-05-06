@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1861-rotating-the-box) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2615-sum-of-distances) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0064-minimum-path-sum) |
+| [1861-rotating-the-box](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1861-rotating-the-box) |
 | [3225-maximum-score-from-grid-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1861-rotating-the-box) |
 ## Bit Manipulation
 |  |
 | ------- |
