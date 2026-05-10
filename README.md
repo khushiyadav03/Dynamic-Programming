@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2615-sum-of-distances) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3225-maximum-score-from-grid-operations) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3742-maximum-path-score-in-a-grid) |
