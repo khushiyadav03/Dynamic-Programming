@@ -1,24 +1,25 @@
 class Solution {
 public:
-    int f(int i, int amount, vector<int>& coins, vector<vector<int>>& dp){
+    int solve(int i, int amount, vector<int>& coins, vector<vector<int>>& dp){
         if(amount == 0) return 1;
-        if(i == coins.size()) return 0;
+
+        if(i >= coins.size()) return 0;
 
         if(dp[i][amount] != -1) return dp[i][amount];
 
-        int skip = f(i+1, amount, coins, dp);
-
         int take = 0;
-        if(amount >= coins[i]){
-            take = f(i, amount-coins[i], coins, dp);
-        }
 
-        return dp[i][amount] = take + skip;
+        if(amount >= coins[i]) take = solve(i, amount - coins[i], coins, dp);
+        
+        int notTake = solve(i+1, amount, coins, dp);
+
+        return dp[i][amount] = take + notTake;
     }
 
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
         vector<vector<int>> dp(n, vector<int>(amount + 1, -1));
-        return f(0, amount, coins, dp);
+        return solve(0, amount, coins, dp);
+        // return ans == INT_MAX ? -1 : ans;
     }
 };
