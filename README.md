@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
