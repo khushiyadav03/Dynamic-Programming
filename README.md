@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
 | [0874-walking-robot-simulation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2784-check-if-array-is-good) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1345-jump-game-iv) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Design
 |  |
