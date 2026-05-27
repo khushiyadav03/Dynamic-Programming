@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
 | [0874-walking-robot-simulation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3225-maximum-score-from-grid-operations) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0455-assign-cookies) |
+| [1340-jump-game-v](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
