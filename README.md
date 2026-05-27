@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0091-decode-ways) |
 | [0657-robot-return-to-origin](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0788-rotated-digits) |
+| [1143-longest-common-subsequence](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
