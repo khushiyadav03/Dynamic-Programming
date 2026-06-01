@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1861-rotating-the-box) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2553-separate-the-digits-in-an-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Union-Find
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
