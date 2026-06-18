@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/0788-rotated-digits) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
