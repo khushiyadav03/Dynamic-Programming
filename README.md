@@ -324,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/khushiyadav03/Dynamic-Programming/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
